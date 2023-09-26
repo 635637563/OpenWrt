@@ -36,6 +36,7 @@ rm -rf feeds/luci/applications/luci-app-unblockmusic
 rm -rf feeds/luci/applications/luci-app-accesscontrol
 rm -rf feeds/luci/applications/luci-app-adbyby-plus
 rm -rf feeds/luci/applications/luci-app-ssr-plus
+rm -rf feeds/luci/applications/luci-app-eqos
 
 # 添加额外插件
 git clone --depth=1 https://github.com/kongfl888/luci-app-adguardhome package/luci-app-adguardhome
